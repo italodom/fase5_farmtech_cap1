@@ -39,3 +39,38 @@ O objetivo foi analisar dados climáticos e de cultura agrícola de uma fazenda 
 ## 👨‍💻 Integrantes do Grupo
 - Italo Domingues – RM: 561787
 - Maison Wendrel Bezerra Ramos – RM: 565616
+
+## ☁️ Entrega 2 – Computação em Nuvem (AWS)
+
+Nesta etapa, foi utilizada a **AWS Pricing Calculator** para estimar custos de uma instância com as seguintes configurações:
+
+- 2 vCPUs
+- 1 GiB de memória
+- Até 5 Gbps de rede
+- 50 GB de armazenamento EBS (HD)
+- Linux, On-Demand (100%)
+
+### 📊 Comparação de custos
+
+| Região              | Custo Mensal Estimado |
+|---------------------|-----------------------|
+| São Paulo (BR)      | US$ 12,49             |
+| Virgínia do Norte   | US$ 7.07              |
+
+*(valores retirados da AWS Pricing Calculator, imagens abaixo)*
+
+![Print da calculadora AWS – São Paulo](data/sp.png)  
+![Print da calculadora AWS – Virgínia do Norte](data/virginia.png)
+
+### 💡 Conclusão de custo
+- A região **Virgínia do Norte (EUA)** apresentou custo **mais baixo**.
+- Entretanto, a diferença não é tão grande quando comparado ao custo Brasil.
+
+### ⚖️ Restrições legais e decisão
+Devido à exigência de manter dados **dentro do Brasil**, a opção escolhida é a região **São Paulo (South America)**, mesmo com custo um pouco maior.  
+Essa escolha garante conformidade legal e menor latência de acesso aos sensores locais.
+
+---
+
+## 🎥 Demonstração em Vídeo (Entrega 2)
+[Assista ao vídeo no YouTube (não listado)](https://youtu.be/Kr1-dgsiDvM)
