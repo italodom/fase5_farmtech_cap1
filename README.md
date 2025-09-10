@@ -4,6 +4,10 @@ O objetivo foi analisar dados climáticos e de cultura agrícola de uma fazenda 
 
 ---
 
+## 👨‍💻 Integrantes do Grupo
+- Italo Domingues – RM: 561787
+- Maison Wendrel Bezerra Ramos – RM: 565616
+
 ## 📂 Estrutura do Repositório
 - `data/crop_yield.csv` → base de dados utilizada no projeto
 - `notebooks/NomeCompleto_rmXXXXX_pbl_fase4.ipynb` → notebook com todo o passo a passo (EDA, clusterização, modelos preditivos e conclusões)
@@ -35,10 +39,6 @@ O objetivo foi analisar dados climáticos e de cultura agrícola de uma fazenda 
 [Link para o vídeo no YouTube (não listado)](https://youtu.be/qkmm0qfMbco)
 
 ---
-
-## 👨‍💻 Integrantes do Grupo
-- Italo Domingues – RM: 561787
-- Maison Wendrel Bezerra Ramos – RM: 565616
 
 ## ☁️ Entrega 2 – Computação em Nuvem (AWS)
 
